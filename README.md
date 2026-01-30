@@ -1,5 +1,5 @@
 # Machine Learning Homework  
-**Student:** Kasse Imed Nacer Eddine  
+**Student:** sebkhaoui ayoub mohamed 
 **Level:** 1st Year Master – Artificial Intelligence  
 
 This repository contains two mini-projects implemented in Python using scikit-learn and AutoML tools.
